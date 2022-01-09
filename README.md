@@ -17,3 +17,9 @@ I'm Window application & Backend developer.
 <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macOS&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=plastic&logo=Redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=plastic&logo=Subversion&logoColor=white"/>
+
+<hr/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zooxop&show_icons=true&theme=dracula&include_all_commits=true"/>
+</p>
