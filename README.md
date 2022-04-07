@@ -2,7 +2,7 @@
 
 I'm Window application & Backend developer.
 
-<img src="https://img.shields.io/badge/zooxop@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Blog-20C997?style=plastic&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/zooxop@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/> [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech-blog&theme=dark)](https://cloverlaun.tistory.com/) 
 
 <br/>
 
