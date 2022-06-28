@@ -4,7 +4,7 @@
 
 #### 📚 studying 
 
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=iOS&logoColor=white"/>
+<img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt="iOS" src ="https://img.shields.io/badge/Apple-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white"/>
 
 
 <br/>
