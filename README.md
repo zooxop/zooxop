@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-<img src="https://img.shields.io/badge/zooxop@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/> [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tech-blog&theme=dark)](https://cloverlaun.tistory.com/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zooxop@gmail.com)](mailto:zooxop@gmail.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://cloverlaun.tistory.com/)
 
 #### 📚 studying 
 
