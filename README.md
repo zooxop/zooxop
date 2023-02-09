@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zooxop@gmail.com)](mailto:zooxop@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheolhyunmun.dev@gmail.com)](mailto:cheolhyunmun.dev@gmail.com)
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://cloverlaun.tistory.com/)
 
 #### 📚 studying 
