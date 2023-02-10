@@ -19,8 +19,12 @@
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=Gradle&logoColor=white"/> -->
 
+<!--
 <hr/>
+-->
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zooxop&show_icons=true&theme=dracula&include_all_commits=true"/>
 </p>
+-->
