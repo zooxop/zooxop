@@ -1,19 +1,22 @@
 ### Hi there! 👋
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cheolhyunmun.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://cloverlaun.tistory.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheolhyunmun.dev@gmail.com)](mailto:cheolhyunmun.dev@gmail.com)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://cloverlaun.tistory.com/)
-
-#### 📚 studying 
+### 📚 field
 
 <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white"/>
 
+### 🔍 interest
+<img alt="OpenVPN" src ="https://img.shields.io/badge/OpenVPN-EA7E20.svg?&style=for-the-badge&logo=OpenVPN&logoColor=white"/> <img alt="WireGuard" src ="https://img.shields.io/badge/WireGuard-88171A.svg?&style=for-the-badge&logo=WireGuard&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
 
 <br/>
 
 
 <!-- 
   # 💪 Skills & Tools 🛠
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://cloverlaun.tistory.com/)
 
   <img src="https://img.shields.io/badge/Delphi-EE1F35?style=plastic&logo=Delphi&logoColor=white"/> <img src="https://img.shields.io/badge/MsSQL-CC2927?style=plastic&logo=Microsoft-SQL-Server&logoColor=white"/>
 
