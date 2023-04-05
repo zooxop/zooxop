@@ -1,7 +1,8 @@
 ### Hi there! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cheolhyunmun.dev@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://cloverlaun.tistory.com)
+[![Tistory's Badge](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)](https://cloverlaun.tistory.com)
+[![Stackoverflow's Badge](https://img.shields.io/badge/StackOverflow-F58025.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/6092393/cheolhyun)
 
 ### 📚 field
 
