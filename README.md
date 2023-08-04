@@ -9,7 +9,7 @@
 <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt="iOS" src ="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white"/> <img alt="macOS" src ="https://img.shields.io/badge/macOS-000000.svg?&style=for-the-badge&logo=macOS&logoColor=white"/>
 
 ### 🔍 interest
-<img alt="OpenVPN" src ="https://img.shields.io/badge/OpenVPN-EA7E20.svg?&style=for-the-badge&logo=OpenVPN&logoColor=white"/> <img alt="WireGuard" src ="https://img.shields.io/badge/WireGuard-88171A.svg?&style=for-the-badge&logo=WireGuard&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<img alt="WireGuard" src ="https://img.shields.io/badge/WireGuard-88171A.svg?&style=for-the-badge&logo=WireGuard&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
 
 <br/>
 
